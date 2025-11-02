@@ -3,7 +3,7 @@
 * Interspeech 2025
 
 # Dataset
-* [ToxicTone Dataset](https://drive.google.com/file/d/1T-OKTKXiZpCPCxKJEj0zKuTk3J6FncRe/view?usp=sharing)
+* [ToxicTone Dataset](https://drive.google.com/drive/folders/1IYGScC8ppnGYJ6Xpzy5siVfXRwfwUaAL?usp=sharing)
 * To comply with YouTube’s Terms of Service, we only provide video IDs, durations, and their associated labels.
 * This dataset is not intended for use in generative tasks. By using this dataset, you acknowledge and agree not to use it in ways that violate this restriction.
 * For example:
